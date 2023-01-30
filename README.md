@@ -1,6 +1,6 @@
 # NSD_MAO-XGB
 
-This repository contains code for the thesis titled "A Modified Aquila Based Optimized XGB Framework For Detecting Probable Seizure In Neonates.
+This repository contains code for the thesis titled "A Modified Aquila Based Optimized XGB Framework For Detecting Probable Seizure In Neonates".
 
 ", which has been submitted to Electronics and Communication Engeering Discipline, Khulna University, Khulna. The overall graphical block diagram of our proposed approached is illustrated in Figure below.
   
@@ -15,6 +15,7 @@ Dependencies:
 ```
 Numpy
 Pandas 
+Mealpy
 Matplotlib
 Seaborn
 Pickle
@@ -34,4 +35,6 @@ For inquires or suggestions please contact:
 ---
 k.mirazulmumenin@gmail.com
 md.abdul.awal.uq@gmail.com
+nahid.ece.ku@gmail.com
+
 ---
