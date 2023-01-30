@@ -18,8 +18,8 @@ Mealpy
 Matplotlib
 Seaborn
 Pickle
-Shap
-Lime
+Sklearn
+Seaborn
 Warnings
 Pycm
 ```
@@ -31,8 +31,8 @@ Khondoker Mirazul Mumenin
 Md. Abdul Awal
 ```
 For inquires or suggestions please contact:
----
+```
 k.mirazulmumenin@gmail.com
 md.abdul.awal.uq@gmail.com
 nahid.ece.ku@gmail.com
----
+```
