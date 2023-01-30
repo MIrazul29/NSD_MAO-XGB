@@ -8,12 +8,12 @@ This repository contains code for the thesis titled **"A Modified Aquila Based O
 
 
 # Folder description:
-###### ORF_Csection: 
+###### NSD_MAO-XGB: 
 There are in total five folders in HHO-ML.This was tested in python  3.8.12 version.<br />
-1.[Code](https://github.com/MIrazul29/ORF_Csection/tree/main/Code) folder contains python code for ORF_Csection. <br />
-2.[Data](https://github.com/MIrazul29/ORF_Csection/tree/main/Data) folder has preprocessed data of Csection patients.<br />
-3.[Images](https://github.com/MIrazul29/ORF_Csection/tree/main/images) folder contains images of different performance evaluation of our method.<br />
-5.[Trained models](https://github.com/MIrazul29/ORF_Csection/tree/main/Models) folder has file which contains trained  ML models.
+1.[Code](https://github.com/MIrazul29/NSD_MAO-XGB/tree/main/Code) folder contains python code for NSD_MAO-XGB. <br />
+2.[Data](https://github.com/MIrazul29/NSD_MAO-XGB/tree/main/Data) folder has preprocessed and raw data of neonates.<br />
+3.[Trained models](https://github.com/MIrazul29/NSD_MAO-XGB/tree/main/Trained%20Models) folder has file which contains trained  ML models.
+4.[Results](https://github.com/MIrazul29/NSD_MAO-XGB/tree/main/Results)folder contains images of different performance evaluation of our method.<br />
 
 Dependencies:
 ```
