@@ -35,13 +35,11 @@ Authors:
 Khondoker Mirazul Mumenin
 Prapti Biswas
 Dr. Abdullah-Al Nahid
-Dr. Md. Abdul Awal
 
 ```
 For inquires or suggestions please contact:
 ```
 k.mirazulmumenin@gmail.com
 pbs86865@gmail.com
-md.abdul.awal.uq@gmail.com
 nahid.ece.ku@gmail.com
 ```
